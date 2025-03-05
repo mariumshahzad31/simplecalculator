@@ -1,0 +1,1 @@
+ simple calculator built using HTML, CSS, and TypeScript performs basic arithmetic operations like addition, subtraction, multiplication, and division. The user interface is styled with CSS, while TypeScript handles the calculator's functionality and user interactions.
